@@ -1,0 +1,2 @@
+class NotFoundTrack(Exception):
+    pass
